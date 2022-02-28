@@ -1,0 +1,391 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse touching the drayning the great fennes, lying vvithin the severall counties of Lincolne, Northampton, Huntington, Norfolke, Suffolke, Cambridge, and the isle of Ely, as it was presented to his Majestie. By Sir Cornelius Vermuïden Knight. Whereunto is annexed the designe or map. Published by authority.</title>
+            <author>Vermuyden, Cornelius, Sir, 1590-1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95858</idno>
+            <idno type="STC">Wing V241</idno>
+            <idno type="STC">Thomason E143_14</idno>
+            <idno type="EEBO-CITATION">99871311</idno>
+            <idno type="PROQUEST">99871311</idno>
+            <idno type="VID">156605</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95858)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156605)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E143[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse touching the drayning the great fennes, lying vvithin the severall counties of Lincolne, Northampton, Huntington, Norfolke, Suffolke, Cambridge, and the isle of Ely, as it was presented to his Majestie. By Sir Cornelius Vermuïden Knight. Whereunto is annexed the designe or map. Published by authority.</title>
+                  <author>Vermuyden, Cornelius, Sir, 1590-1677.</author>
+               </titleStmt>
+               <extent>[2], 32 p. : map  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Fawcet, dwelling in Grub-street neere the lower Pumpe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: lacks map.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Drainage --  Great Britain --  Early works to 1800.</term>
+               <term>Fens, The (England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156605:1" rendition="simple:additions"/>
+            <p>A Diſcourſe touching the DRAYNING THE GREAT FENNES, LYING Within the ſeverall COVNTIES of <hi>Lincolne, Northampton, Huntington, Norfolke, Suffolke, Cambridge,</hi> and the Jſle of <hi>Ely,</hi> as it was preſented to his Majeſtie.</p>
+            <p>BY <hi>Sir</hi> CORNELIVS VERMVÏDEN <hi>Knight.</hi>
+            </p>
+            <p>
+               <hi>Whereunto is annexed the Deſigne or Map.</hi>
+            </p>
+            <p>Publiſhed by Authority.</p>
+            <p>LONDON. Printed by <hi>Thomas Fawcet,</hi> dwelling in <hi>Grub<g ref="char:EOLhyphen"/>ſtreet</hi> neere the lower Pumpe. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156605:2"/>
+            <pb n="1" facs="tcp:156605:2"/>
+            <head>A Diſcourſe touching the Drayning of the great <hi>Fennes</hi> lying within the ſeverall Counties of <hi>Lincolne, Northampton, Huntingdon, Nor<g ref="char:EOLhyphen"/>folke, Suffolke, Cambridge,</hi> and the Jſle of <hi>Ely,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">D</seg>Ivers perſons of Quality heretofore have beene deſirous to attempt the Drayning of that great and vaſt Le<g ref="char:EOLhyphen"/>vell called the <hi>Great Fennes,</hi> but they found not onely the Worke but alſo the compoſing of an Agreement ve<g ref="char:EOLhyphen"/>ry difficult, for they could not attaine to ſo much as to make a Contract for the generall Drayning thereof, untill of late yeares King JAMES of bleſ<g ref="char:EOLhyphen"/>ſed memory, did undertake (by a Law of <hi>Sewers</hi>) that great Worke, who for the Honour of this Kingdome (as his Majeſty told me at that time) would not ſuf<g ref="char:EOLhyphen"/>fer any longer the ſaid Land to bee abandoned to the will of the Waters, nor to let it lye waſt and unpro<g ref="char:EOLhyphen"/>fitable. But his Majeſties great occaſions and the time would not permit ſo great and good a reſolution but it was deferred ſo long, that at laſt the late Earle
+<pb n="2" facs="tcp:156605:3"/>of <hi>Bedford</hi> (by the Law of <hi>Sewers</hi> made at <hi>Lynne</hi>) did undertake the Drayning of the ſaid great and vaſt Le<g ref="char:EOLhyphen"/>vell ſo farre as to make it Summer ground.</p>
+            <p>Hereupon the ſaid Earle made choiſe of divers per<g ref="char:EOLhyphen"/>ſons of quality who made a purſe and joyned in the performance of this great Enterpriſe. And at the laſt (after the Expence of above One hundred thou<g ref="char:EOLhyphen"/>ſand pounds) the ſaid Earle did proceed ſo farre in this Work, that it was adjugded to be made Summer ground, and the recompence thereupon was ſet out.</p>
+            <p>But now notwithſtanding all theſe great Expences, they find by experience, that the Lands can yeeld lit<g ref="char:EOLhyphen"/>tle or no profit being ſubject to Inundation ſtill, (though not ſo familiarly) whereby the Adventurers not onely became fruſtrate of their Expectation, but alſo all the Owners in generall, who cannot make that uſe of their Lands as they might doe, if they made Winter grounds and reduced to a certainty.</p>
+            <p>His now Majeſty taking conſideration thereof, and fore ſeeing that theſe Lands being a continent of about 400000. Acres, which being made Winter ground would be an unexpected benefit to the Com<g ref="char:EOLhyphen"/>mon-wealth of Six hundred thouſand pounds <hi>per An<g ref="char:EOLhyphen"/>num</hi> and upwards, and a great and certaine Revenue to all the parties intereſſed. And likewiſe, becauſe the Owners (who are very many) could not agree to doe ſo great a Worke (the one being willing the other not, the one able to contribute the other not) hath therefore bin pleaſed to undertake the making of thoſe Lands Winter ground at his owne charge, whereby the ſaid Foure hundred thouſand Acres will be made profitable, firme and good.</p>
+            <pb n="3" facs="tcp:156605:3"/>
+            <p>And for to execute this Enterprize the better, his Majeſty did co<g ref="char:cmbAbbrStroke">̄</g>mand divers Gentlemen expert in thoſe Workes to give their advice how theſe Lands might recovered, in ſuch manner as to make them winter grounds, to the end the Worke might be performed according to the contract. And amongſt others, his Majeſtie was pleaſed to make me one of that Com<g ref="char:EOLhyphen"/>miſſion, and after a View thereof taken, every one of the ſaid Commiſſioners have returned their report, and opinion (as is uſuall in ſuch caſe, and eſpecially in a matter of ſuch great weight) they differ much in their way, and ſo no reſolution could be determined at that time, but did remaine unreſolved; yet all of them were of opinion that the Worke was very Feazable.</p>
+            <p>When King IAMES of bleſſed Memory, undertooke the Drayning as aforeſaid, at that time I was come over into <hi>England,</hi> invited to this Worke, I tooke ſe<g ref="char:EOLhyphen"/>verall Viewes thereof, went away, returned, and re<g ref="char:EOLhyphen"/>viewed the ſame, tooke advice of the Experienced men of the <hi>Low-Countries,</hi> and from time to time did ſtudy how to contrive that Worke for the beſt ad<g ref="char:EOLhyphen"/>vantage, being at that time in propoſition to have undertaken the doing of that ſaid Worke, together with my Friends at our owne charge for a proporti<g ref="char:EOLhyphen"/>on of Land. And my opinion therein I declared but lately to his Majeſty, and his Highneſſe being well pleaſed with that way, after debate had thereupon, was pleaſed to put the Direction of that Worke upon me, and to performe it at his owne Charge, and for further Information therein, hath commanded to have it ſet downe in Writing, which accordingly hereafter followeth.</p>
+            <div type="part">
+               <pb n="4" facs="tcp:156605:4"/>
+               <head>The Scituation of the Great Fennes, and the State thereof.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Levell lyeth in ſixe Counties, <hi>(viz.) Cambridge,</hi> and the Jſle of <hi>Ely, Hunting<g ref="char:EOLhyphen"/>ton, Northampton, Lilcolne, Norfolke,</hi> and <hi>Suffolke.</hi> It is of a great and vaſt extent, that for its quantity at is of the Latitude of a whole Shire, and bounds on the North-weſt on the River of <hi>Glean;</hi> on the Weſt and South-eaſt up<g ref="char:EOLhyphen"/>on the Upland-Countries aforeſaid; and on the North, on <hi>Marſh-land</hi> and <hi>Holland,</hi> being likewiſe in the ſaid Levell ſeperated by Bankes.</p>
+               <p>There doe runne through theſe <hi>Fennes</hi> eight Rivers which doe come out of divers vaſt and great Coun<g ref="char:EOLhyphen"/>tries which lye about it, the ſaid Rivers are called <hi>Glean, Welland, Neane, Ouſe, Grant, Milden-hall, Brandon,</hi> and <hi>Stoke.</hi>
+               </p>
+               <p>Theſe Rivers lye common with the Land without ſeperation by Bankes, ſave onely <hi>Glean,</hi> and <hi>Welland,</hi> are ſomething Imbanked, and ſome Bankes there are in ſome places on ſome of the other Rivers, but not to that purpoſe as to ſave any part of the Lands, and for this reaſon, and for want of a ſufficient paſſage for the waters that come by the Rivers, all the Lands are over-flowen.</p>
+               <p>The ſaid Rivers have three ſeverall Out-falls from the <hi>Fennes</hi> into the Sea, and by theſe Out-falls the
+<pb n="5" facs="tcp:156605:4"/>ſaid Rivers and Lands unwater themſelves in that manner as now they doe.</p>
+               <p>The Levell is broad, and of great extent, and flat, with little or no deſcent of its owne, and growne full of Haſſacks, Sedge, and Reede, and the Rivers full of Weeds; and the Waters go ſlowly away from the Lands and out of the Rivers, and they come ſwift into and upon it out of the upland Counties, where the Rivers have a great fall. The aforeſaid three out<g ref="char:EOLhyphen"/>falls are of great length before they come to the Sea, the Lands of <hi>Holland,</hi> and <hi>Marſh-land,</hi> being great Countries which lie betweene them, and doe hinder the ſpeedy Current of the Waters towards the Sea.</p>
+               <p>There is much increaſe on the Sea ſide, and very large and vaſt Sands all dry at low Water, and be<g ref="char:EOLhyphen"/>cauſe of the Poynt of <hi>Norfolke,</hi> it makes it an Imbay, whereby the Sands of the Sea are throwne there by the Floods, and theſe three Out-falls come through theſe Sands, and the Tydes every day bring into the mouth of the Rivers a great quantity thereof, and there is but a few times ſufficient Land-water to ſet the Sands out againe, to keepe the Outfall open, inſo<g ref="char:EOLhyphen"/>much that <hi>Welland</hi> and <hi>Wiſbitch</hi> Outfals are choaked every Summer, But the Outfall of <hi>Lynne</hi> hath ſuffi<g ref="char:EOLhyphen"/>cient water to keepe open his Channell, and although in the Summer the Sands in <hi>Lynne Haven</hi> overcome the Ebbs, ſomewhat, yet they doe not lye long, but the firſt Land waters or next Spring Tydes, carry them away againe.</p>
+               <p>But it is not onely to be feared, but apparent that in proceſſe of time, the outfalls of <hi>VViſbich</hi> and <hi>Wel<g ref="char:EOLhyphen"/>land,</hi> will utterly decay, by the ſaid increaſe and Sands
+<pb n="6" facs="tcp:156605:5"/>the Sea, if they ſhould remaine as now they are, by reaſon of the daily increaſe of the Marſhes.</p>
+               <p>The Soyle of this vaſt Country is Mooriſh, gathe<g ref="char:EOLhyphen"/>red and growne up higher by the Weeds and Oaze of the waters, many of them are rich grounds, and all would (if they were well Drayned) be very profitable and become good grounds, eſpecially after they bee burned, manured, and husbanded as ſuch grounds ſhould be.</p>
+               <p>There be many Iſles, and riſing grounds within this great Levell. And the Rivers paſſe by Townes lowe ſeated, lying here or next unto the Uplands, wherein the Inhabitants of the <hi>Fennes</hi> doe live in great aboun<g ref="char:EOLhyphen"/>dance.</p>
+               <p>The ſaid Countries of <hi>Marſhland, Wiſbich,</hi> and <hi>Holland,</hi> are fenced by Bankes from the waters of the <hi>Fennes,</hi> and ſometimes they have been overflowen by the ſaid waters, and have often been in great danger, and they are at a continuall charge for the maintenance of the ſaid Bankes.</p>
+               <p>The Kings contract is to make theſe Lands Win<g ref="char:EOLhyphen"/>ter ground, that is to free them from the overflowing of the Rivers aforeſaid, ſo farre as by Art can be deviſed.</p>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:156605:5"/>
+               <head>Conſiderations to be taken in the Ordinary way of Drayning.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Here is in uſe a generall Rule of Dray<g ref="char:EOLhyphen"/>ning and gaining of drowned Lands, which is by imbanking all the Rivers on each ſide, and by leading away the Downefall by Draynes and Sluices, and this is the Ordinary way of Dray<g ref="char:EOLhyphen"/>ning, as is uſuall in all ſuch caſes.</p>
+               <p>But in this caſe of the <hi>Great Fennes,</hi> I cannot adviſe to goe altogether in ſuch a way to avoyd inconveni<g ref="char:EOLhyphen"/>ences of great and vaſt expence, many difficulties of Inundation and uncertainties which otherwiſe would depend thereupon.</p>
+               <p>For then a multitude of Bankes muſt be made about 70000 Roddes in length on a Levell and Mooriſh ground, and farre diſtant from the Falls. The yearely reparation whereof would be (beſides the charge of making them) very great.</p>
+               <p>The Head Draynes (which in this caſe are to be cut) for the leading away of the Downefall, muſt bee car<g ref="char:EOLhyphen"/>ried in all places through a higher ground then the Lands Drayned, which will be the greater charge, and thoſe grounds wherein they are to be layd muſt be deare bought.</p>
+               <p>The Townes of <hi>Peterborough, Erith,</hi> and many o<g ref="char:EOLhyphen"/>thers ſtanding upon the Upper ends of the Rivers, and but Low would be thereby ſometimes drowned, un<g ref="char:EOLhyphen"/>leſſe great Fore-lands and Receptacles be.</p>
+               <pb n="8" facs="tcp:156605:6"/>
+               <p>A great inconvenience would be on the South-ſide of <hi>Ouſe,</hi> for by the imbanking of the Rivers on that ſide, there would be Three or foure Levels the one a<g ref="char:EOLhyphen"/>bove the other, and all of them would want fall all the Winter time. And to leade away the downefall of them it muſt bee carried by Tunnels underneath the three ſeverall Rivers of <hi>Milden hall, Brandon,</hi> and <hi>Stoake,</hi> and that in ſundry places, and the water muſt goe about 28. miles before it commeth to the Fall, and ſo the upper Levell muſt of neceſſity commit the water thereof into the next, and ſo into the lower a<g ref="char:EOLhyphen"/>gaine. And all this length of 28. miles goe in a ſlow pace. And how the downe-fall ſhould bee brought ſuch a length without ſurcharging the Draynes either in the one or other Levell, J know not. And eſpeci<g ref="char:EOLhyphen"/>ally there being ſeverall Brookes, the which in Win<g ref="char:EOLhyphen"/>ter time will overtake the Downfall, and being libe<g ref="char:EOLhyphen"/>rall with their waters (being more then the Draynes and Tunnels can ſwallow) the Levell would become ſurrounded and ſo without perfection from within.</p>
+               <p>And by the waters without the Bankes, will lye in continuall danger of Inundation for want of a good Fall in the winter, and by a winde, catch, breake and undoe all againe.</p>
+               <p>And although each mouth of the ſeverall Rivers of <hi>Milden-hall,</hi> and <hi>Brandon,</hi> be brought through new Channels lower to the Fall; yet will it not take away theſe inconveniences in this way. And if by another way the ſeverall Rivers of <hi>Milden-hall,</hi> and <hi>Brandon,</hi> ſhould be brought to <hi>Stoake</hi> all in one along the up<g ref="char:EOLhyphen"/>per end of the Levell, and ſo by <hi>Stoake</hi> mouth into <hi>Ouſe;</hi> yet that way the Downfall will have no iſſue
+<pb n="9" facs="tcp:156605:6"/>neither for the water of the ſeverall Rivers being all brought into <hi>Ouſe,</hi> neere together and kept within Channell, will ſo ſwell in the Rivers, that the downe<g ref="char:EOLhyphen"/>fall thereof which is to be kept under Soyle, will have no iſſue, and ſo the Levell be overflowne, and as it is now and no better.</p>
+               <p>And the Lands will be by this way much ſubjected to Inundation and Drowning, both by the Rivers and downfall; and therefore not be worth ſo much in purchaſe or to be letten as otherwiſe: and the charge of the workes in this way (In workes not accompted) will be much greater then the whole Drayning will re<g ref="char:EOLhyphen"/>quire the other way w<hi rend="sup">ch</hi> I direct hereafter following.</p>
+               <p>Therefore to avoyd theſe and many more inconve<g ref="char:EOLhyphen"/>niences, I find it beſt to leade moſt of the Rivers about another way, whereby theſe foure benefits will ariſe.</p>
+               <list>
+                  <item>1 <hi>That the workes may be made at a farre leſſe charge.</hi>
+                  </item>
+                  <item>2 <hi>That they will ſtand with more ſafety and no hazard of Inundation, and ſo may become habitable.</hi>
+                  </item>
+                  <item>3 <hi>And not ſubject to halfe that Reparation.</hi>
+                  </item>
+                  <item>4 <hi>And the Land of a farre better value then the other way.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Divers things to be obſerved.</head>
+               <p>
+                  <seg rend="decorInit">A</seg>Nd to the end the Workes may bee made to Anſwer the difficulties the Lands now lye in, in the contriving thereof, theſe following things are to be obſerved:</p>
+               <pb n="10" facs="tcp:156605:7"/>
+               <p n="1">1 <hi>That the Rivers come downe ſwift out of the Vp<g ref="char:EOLhyphen"/>land Countries, and when they bee in the Fennes (they being Levell grounds) goe but ſlowly away.</hi>
+               </p>
+               <p n="2">2 <hi>That the Levell is of great extent, Twenty miles at leaſt from the upper end to the Fall; and therefore be<g ref="char:EOLhyphen"/>fore the water can come thither, within a convenient and anſwerable time and in that proportion as it is ſtill ſed by the River water from above out of the Vplands, it muſt goe ſwifter then Levell water.</hi>
+               </p>
+               <p n="3">3 <hi>That the Bankes (ſo much as may be) bee laid out from the Mooriſh grounds.</hi>
+               </p>
+               <p n="4">4 <hi>That the Rivers be carried on the higheſt grounds where poſsibly they may bee.</hi>
+               </p>
+               <p n="5">5 <hi>That the Draynes be layd in the loweſt Grounds.</hi>
+               </p>
+               <p n="6">6 <hi>That there be receptacles for the waters to Bed on in all times of extremity, otherwiſe the Worke might bee put to an impoſſibility and a continuall hazard of In<g ref="char:EOLhyphen"/>undation.</hi>
+               </p>
+               <p n="7">7 <hi>And that the Townes lying on the upper part of the Rivers may not be damnified, by putting the waters too high betweene the Bankes.</hi>
+               </p>
+               <p n="8">8 <hi>And although all this bee provided for, yet the Bankes to be made</hi> 10, 11, <hi>or</hi> 12. <hi>Foot high, on a Seat of</hi> 40, 45, 50, <hi>or</hi> 60. <hi>Foot broad in generall, according to the occaſions more or leſſe.</hi>
+               </p>
+               <p n="9">9 <hi>And that the River water and the Downfall bee kept a ſunder, and brought to the Fall ſeverally.</hi>
+               </p>
+               <p>Now farther, obſerve how it ſtands with the River of <hi>Glean,</hi> (to give you an Example) which River drownes <hi>Deeping Fenne,</hi> by the often breaking of the Bankes on that ſide, and by two Slakers (which are
+<pb n="11" facs="tcp:156605:7"/>Inlets, whereby the Waters of <hi>Glean</hi> when the Banks cannot containe them are let into <hi>Deeping Fenne</hi> by a certaine meaſure (that when the water is above the bottome of the Slakers, then it) runneth over into the Land. And this is becauſe the Bankes on either ſide of <hi>Glean</hi> are layd too neare together, therefore if the Waters ſhould be kept within the Banks as now they are, without Slakers they would run over and breake them, and <hi>Deeping Fenne</hi> would thereby be drowned on every occaſion by the breaches which the Water would make. Thoſe Slakers then are made to keepe the ſaid Banke from breaking, which is no otherwiſe then an iſſue in a corrupt body, where there is a neg<g ref="char:EOLhyphen"/>lect to take away the occaſion by a knowne Remedy, It cannot be denyed but that the Bankes of <hi>Glean</hi> were layd too neare, for had they been layd foure times ſo farre a ſunder, as now they are, the River would bee contained within Bankes without Slakers, for if the Water be pent into a narrow roome, then the water in that narrow roome muſt be higher, and ſo riſe o<g ref="char:EOLhyphen"/>ver the Bankes, but if it ſhall lye on a wide Bed, then it lyeth broader and the Cubes of two ſeverall bodies will much differ, for you ſhall find a greater propor<g ref="char:EOLhyphen"/>tion, and alſo gaine a greater eaſement to the ſaid Bankes, then the other way and roome to lodge the Water betweene them without any Slakers or Inlets, for they are Remedies worſe then the diſeaſe, not to be ſuffered in any worke whatſoever if you deſire perfection.</p>
+               <p>
+                  <note place="margin">☞</note> There ſhould be great roome left betweene Banke and Banke on each ſide of the Rivers, Yet the one Ri<g ref="char:EOLhyphen"/>ver according to the greatneſſe thereof, will require
+<pb n="12" facs="tcp:156605:8"/>more then the other. For the greater the confluence of waters the more room is required to receive it. And the more diſtance from the Fall the more roome like<g ref="char:EOLhyphen"/>wiſe is to be left, becauſe the waters being farre di<g ref="char:EOLhyphen"/>ſtant from the fall, goe not ſo ſpeedy nor have that current which they have at a ſhort diſtance.</p>
+               <p>And in caſe that all the Rivers ſhould be Inned and fenced by Bankes to free the Lands, and that great di<g ref="char:EOLhyphen"/>ſtances ſhould be left betweene Banke and banke; yet ſtill it muſt be confeſſed, that a multitude of Bankes in this Levell muſt be made through Mooriſh grounds in length about 70000 Rodde, which would be very chargeable and dangerous. And (if all be conſidered) impoſſible that way to be made a ſure worke, and in ſuch a caſe divers Draynes for the downfall muſt bee made and all through high and valuable Lands, and more Sluces (which are very chargeable, not onely in their firſt making but alſo in their ſuture maintenance) as may be ſeene by the draynes of <hi>Deeping Fenne</hi> and others which are but newly made, and yet already al<g ref="char:EOLhyphen"/>moſt growne up with all kind of Water weeds. You may obſerve this in all kind of Draynes of this nature throughout the whole Country. So that thereby the workes become unfruitfull after a little while, and in this way many Thouſands might be ſpent to ſmall or no purpoſe. But to avoyd the multiplicity of Bankes and the making of many Draynes, and to reduce the Worke to a poſſibility, it ſhould be ſo contrived that there ſhould bee but few of either of them made. Therefore it is beſt that divers Rivers be brought as into one, to avoyd nere the moity of the Bankes, which otherwiſe muſt be made. And for the receptacles J
+<pb n="13" facs="tcp:156605:8"/>reſolve to imitate nature (as much as can) be in the upland Countries, for betweene the Hills there are meadowes, and on each ſide paſture grounds or plough Land. I ſhall endeavour to contrive the workes that way, that there may be Meadowes between the upland and the Winter ground of the <hi>Fennes</hi> likewiſe.</p>
+               <p>Hereby firſt to avoyd multiplicity of Banks, which are very chargeable both in their making and main<g ref="char:EOLhyphen"/>taining.</p>
+               <p>Secondly, for that the Meadowes will be recepta<g ref="char:EOLhyphen"/>cles for the water in time of extremity to bed on up<g ref="char:EOLhyphen"/>pon all occaſions of Floods, and ſo to keepe the wa<g ref="char:EOLhyphen"/>ters at a leſſer heighth by farre, againſt the Banks and and no hurt, but a great deale of good will be thereby; For thoſe Meadowes will lye very convenient for the upland Country, and for the Winter grounds of the <hi>Fennes.</hi> And of theſe Meadows there will be no grea<g ref="char:EOLhyphen"/>ter quantity then the Imbanking of the Rivers by the ordinary way of Drayning will take up, for there muſt be roome left between Banke and Banke.</p>
+               <p>And when all this is taken into conſideration, with the Scituation of the whole, I find it the fitteſt way to divide the whole Levell into Thre parts.</p>
+               <p n="1">1. <hi>The one from</hi> Glean <hi>to</hi> Mortons Leame.</p>
+               <p n="2">2. <hi>From</hi> Mortons Leame <hi>to</hi> Bedford River.</p>
+               <p n="3">3. <hi>From</hi> Bedford River <hi>Southwards, being the re<g ref="char:EOLhyphen"/>mainder of the Levell.</hi>
+               </p>
+               <p>To Drayne the Lands between <hi>Glean</hi> and <hi>Mortons Leame,</hi> all <hi>Stow-Brooke,</hi> and ſo much of the River of <hi>Glean,</hi> as the Banks cannot containe, muſt be turned a<g ref="char:EOLhyphen"/>long <hi>Deeping</hi> into <hi>Welland,</hi> and all <hi>Welland,</hi> into <hi>Mor<g ref="char:EOLhyphen"/>tons Leame,</hi> which lyeth convenient to receive <hi>Stow-Brooke,</hi>
+                  <pb n="10" facs="tcp:156605:9"/>part of <hi>Glean, VVeiland</hi> and <hi>Neane,</hi> to be carried to <hi>Guyhurne,</hi> and from thence by <hi>Wiſbich</hi> to the Sea, and ſo thoſe Rivers to make but one, whereby the Worke will be made at leſſer charges by farre, and alſo gaine a more perfect Out fall, becauſe the Rivers of <hi>Wiſbich</hi> and <hi>Spalding</hi> are not ſufficient for want of water to keepe open their Channels as they ſhould be kept, but are interrupted &amp; ſubject to grow up by rea<g ref="char:EOLhyphen"/>ſon of the Sand which the Sea bringeth in, whereas they ought to be kept open and have their full depths and fall, for the ground to be drayned ſo farre upwards as into, or adjoyning to the drowned grounds, for the iſſuing of their downefall.</p>
+               <p>To make a ſure Worke thereof, I adviſe to bring the aforeſaid Rivers into one, that they may (in time) gaine themſelves a naturall Channell, which will be farre better then to leave them to ſundry outfalls, which in future ages (as is conceived) will reduce the Worke into an uncertainty againe, by reaſon of the dayly great increaſe of the Salt <hi>Marſhes,</hi> and the Sands of the Sea.</p>
+               <p>And by this meanes the old Channell of <hi>Welland,</hi> will become very uſefull to the Country, by the <hi>Saſſe</hi> or Navigable ſluce to be ſet at <hi>Waldron Hall</hi> for Navi<g ref="char:EOLhyphen"/>gation to water the Country in Summer and to ſcowre the outfall, and in Winter the Channell will ſerve to convay away the downefall of the adjacent Lands, which otherwiſe muſt be done by draynes to be made at great charge, and there is no conveniency to have ſuch Draynes, and beſide the charge which is intolle<g ref="char:EOLhyphen"/>rable, the ſervice thereof will be incertaine, be cauſe there is no place for them, but through high grounds
+<pb n="11" facs="tcp:156605:9"/>in which Draynes can not be made ſo uſefull as they ſhould, eſpecially for <hi>Deeping Fennes,</hi> which are very low grounds, and hardly to be Drayned, except <hi>Wel<g ref="char:EOLhyphen"/>land</hi> be turned to <hi>Wiſbich.</hi>
+               </p>
+               <p>And hereby the ſaid <hi>Deeping Fennes</hi> will be more certainly ſecured, and they and <hi>Elow,</hi> as I verily beleeve will be more worth to be purchaſed, by Fifty or Sixty Thouſand Pounds, if Drayned this way, then if they ſhould be Drayned the other way.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> 
+                  <hi>But why ſhould the two Rivers be brought to</hi> Wisbich <hi>and not through</hi> Welland, Welland <hi>lying in the middle of this part of the Levell?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> I find many reaſons which move me to bring theſe Wates to <hi>VViſbich,</hi> and they are theſe:</p>
+               <p n="1">1. <hi>The outfall of</hi> Wisbich <hi>lyeth convenient for the Dray<g ref="char:EOLhyphen"/>ning of South</hi> Holland (alias) Ellow, <hi>and the North ſide of</hi> Wisbich, <hi>by the</hi> Sheire Drayne. <hi>And if</hi> Welland <hi>be not put that way, the Out-fall of</hi> Wisbich <hi>cannot ſo well be kept lowe enough to Drayne them as they ſhould be, they being very Low grounds, and the low water of the Sea lying now but little lower then they, and yet muſt be ſufficiently Drayned, and by the turning of</hi> Welland <hi>thither, the Out-fall of</hi> Wisbich <hi>will grind deeper and gaine a greater fall to lay them dry, and high above water.</hi>
+               </p>
+               <p n="2">2. <hi>And conſider that the Lands of South</hi> Holland, <hi>by deſcending from</hi> Spalding <hi>to the Sheire Drayne a<g ref="char:EOLhyphen"/>bove Foure foote, and therefore of neceſſity they muſt have their beſt iſſue into</hi> Wisbich <hi>Outfall, by the ſheire Drayne, And that part of</hi> Thorney Abbey <hi>grounds,</hi> Wisbich <hi>Common, and ſuch lands as cannot runne to</hi> Welland <hi>with their downe fall, muſt have a Drayne be<g ref="char:EOLhyphen"/>tweene</hi>
+                  <pb n="16" facs="tcp:156605:10"/>Guyhurne <hi>and the Shiere draine, at a place called</hi> Murra Plaſhe.</p>
+               <p n="3">3. Wisbich <hi>Outfall and</hi> Mortons <hi>Leame, lye in the middeſt of the Levell of</hi> Fennes, <hi>and hereby w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll be<g ref="char:EOLhyphen"/>come Navigable to the great benefit and convenience of the Country, and the Outfall will be thereby made ſafe for ever, and the</hi> Fennes <hi>be kept abſolutely Drayned.</hi>
+               </p>
+               <p n="4">4. <hi>By the water of</hi> Glean <hi>and the</hi> Downefall <hi>which goeth and is to goe that way, the Channell of</hi> Welland <hi>will be kept open and remaine Navigable for ſmall Boats, and ſerve for the Downefall of the Country on that ſide.</hi>
+               </p>
+               <p n="5">5. Welland <hi>is a leſſer River then</hi> Neane, <hi>and runneth on a higher bottome, and it is more convenient to bring the higher and leſſer to the lowe and greater then contrariwiſe.</hi>
+               </p>
+               <p n="6">6. <hi>It will be a leſſe charge and more certainty. For the River of</hi> Welland <hi>is more narrow, and</hi> Wisbich <hi>Ri<g ref="char:EOLhyphen"/>ver is more wide and eaſie to be opened, becauſe of the workes already made by the Earle of</hi> Bedford, <hi>and hath already three foote better fall then that of</hi> Spalding.</p>
+               <p n="7">7. <hi>I find in the Report of Sir</hi> Clement Edmonds, 20. Septemb. 16 18. <hi>by Order of his late Majeſties moſt honourable Privy Councell, upon occaſion of the dif<g ref="char:EOLhyphen"/>ferences which aroſe amongſt the Commiſſioners of</hi> Se<g ref="char:EOLhyphen"/>wers, <hi>for thoſe Countries. That upon examination it was found, that anciently the waters of</hi> Welland <hi>and</hi> Neane <hi>went to the Sea by</hi> Wisbich <hi>Outfall. And by the ſaid Report it was likewiſe found good to draw the waters to their ancient Outfalls, which confirmes me in my reſolu<g ref="char:EOLhyphen"/>tion. And obſerve that</hi> Glean <hi>is higher then</hi> Welland, <hi>and</hi> Welland <hi>then</hi> Neane; <hi>therefore of neceſſity</hi> Wel<g ref="char:EOLhyphen"/>land <hi>muſt be brought to</hi> Neane <hi>as anciently nature
+<pb n="17" facs="tcp:156605:10"/>brought it which is now hindred by a Banke &amp; not</hi> Neane <hi>to</hi> Welland. <hi>And it is very true, that the water of</hi> Wel<g ref="char:EOLhyphen"/>land, <hi>for the moſt part runneth now naturally by</hi> Crow<g ref="char:EOLhyphen"/>land <hi>into</hi> Neane, <hi>which confirmeth the ſaid Report, and that</hi> Neane <hi>lyeth the lower, and that but little of</hi> Wel<g ref="char:EOLhyphen"/>land <hi>water goeth by</hi> Foſſe-dike.</p>
+               <p n="8">8. <hi>That part of the Levell betweene</hi> Welland <hi>and</hi> Neane, <hi>lyeth deſcending from</hi> Welland <hi>to</hi> Neane 4. <hi>or</hi> 5. <hi>foot, and if the River of</hi> Neane <hi>ſhould be carried to</hi> Welland, <hi>then the water of</hi> Neane <hi>muſt be raiſed high<g ref="char:EOLhyphen"/>er then it runneth naturally, and bee kept betweene two Bankes, and one Banke will not ſerve as it may be bring<g ref="char:EOLhyphen"/>ing</hi> Welland <hi>into</hi> Neane. <hi>And in ſuch a caſe, the Towne of</hi> Peterborough, <hi>the Receptacles and all would be drow<g ref="char:EOLhyphen"/>ned upon every petty Flood, eſpecially all the Lands be<g ref="char:EOLhyphen"/>tweene</hi> Stanground <hi>and</hi> Peterborough.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> 
+                  <hi>There are ſome men which either out of Ignorance or for other ends to hinder this good worke object, that if</hi> Welland <hi>ſhould be turned to</hi> Neane, <hi>it might in the firſt place hinder the Levell Drayned by the Earle of</hi> Lindſey, <hi>and Secondly,</hi> Boſton Deepes.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> For the Earle of <hi>Lindſey's</hi> workes which ranne into the Fall a Myle and a halfe above <hi>Faſſe-dike.</hi> I anſwer, that put the caſe the Outfall ſhould utterly decay, then the Earle of <hi>Lindſey's</hi> Drayne may be brought below <hi>Foſſe-dike,</hi> and ſo fall into the deepe Outfall there, where there is an open way to the Sea, but that Outfall will not decay but remaine alwayes (as the worke will be contrived) for the River <hi>Glean</hi> ſhall al<g ref="char:EOLhyphen"/>wayes goe that way for ſo much thereof as the Banke can contain, which will be a greater quantity then now commeth thereby, becauſe the Bankes by the ſcowring
+<pb n="14" facs="tcp:156605:11"/>of <hi>Glean</hi> will be made the more ſufficient, and alſo part of <hi>Welland,</hi> all the Sommer if need ſhall bee to water the Country, and keepe that Outfall open by the Locke at <hi>Waldron-hall,</hi> which will be ſo much as now there goeth by <hi>Welland old Channell,</hi> for the moſt part goeth now by <hi>Crowland</hi> and drowneth <hi>Thorney, Crowland,</hi> and <hi>Peterborough Fennes,</hi> and goeth that way to <hi>Wiſbich</hi> as is aforeſaid, &amp; in the Winter drow<g ref="char:EOLhyphen"/>neth them and all <hi>Deeping</hi> and <hi>Ellow,</hi> and all the Coun<g ref="char:EOLhyphen"/>try and neerer Townes to the Outfall.</p>
+               <p>And in the Winter there will be all the Downfall of <hi>Crowland Fennes, Deeping Fennes,</hi> and the Earle of <hi>Lindſey's</hi> Levell, On the North of <hi>Glean</hi> which will all fall into that Outfall together with <hi>Glean,</hi> which will be able to keepe it ſufficiently open for <hi>Glean</hi> and the <hi>Downefall,</hi> and if there ſhall want (as there will not) more will be ſent either by a Drayne through <hi>Dee<g ref="char:EOLhyphen"/>ping Fennes,</hi> or by the <hi>Old Channell</hi> of <hi>VVelland,</hi> but it ſhall not need, one yeares experience will take away all the feare, for there will be water enough.</p>
+               <p>And for inſtance, the <hi>Leame</hi> at long <hi>Sutton</hi> (which runneth through the like Soyle) hath been and is kept open through the Sands of the Sea by the foure Gotes neare <hi>Cutton</hi> about 7. Myles from <hi>Spalding</hi> Outfall, and doth run but 7. or 8. moneths in the yeare, thoſe waters which doe and alwayes have kept open the ſaid <hi>Leame,</hi> are not ſo much as the 20<hi rend="sup">th</hi> part of that water which ſhall goe to <hi>VVelland</hi> Outfall by theſe works, which makes it evident that <hi>VVelland</hi> Outfall will be kept open, And further take Examples by all the Out<g ref="char:EOLhyphen"/>falls on the Coaſt of <hi>Lincolne</hi> and <hi>Norfolke,</hi> where all the Outfals are kept open, and yet have no River to
+<pb n="15" facs="tcp:156605:11"/>helpe them, but nevertheleſſe are kept open by the downefall onely.</p>
+               <p>It is in uſe and practice every day where the Havens or outfals in the Lowe Countries have no River, to make a Pan, and at every Tyde to take water into the ſaid pan, and ſo they doe keepe open their out-fals of two or three Myles long, but <hi>VVelland</hi> hath a better remedy, that Outfall (as it will be there contrived) will be the beſt outfall of all the Country.</p>
+               <p>If it were not to preſerve Navigation for <hi>Spalding</hi> it were not amiſſe to bring allthe downefall of <hi>Dee<g ref="char:EOLhyphen"/>ping</hi> and <hi>Thorney</hi> through <hi>Ellow,</hi> and ſo to <hi>VViſbich</hi> outfall by a new Channell, and this is another remedy.</p>
+               <p>It is conſiderable to be ſpoken of thus farre, becauſe that the Workes may be very well contrived thus, or towards <hi>VViſbich,</hi> all parties provided for and ſaved thereby, and ſo well for the Navigation of <hi>Spalding</hi> to <hi>VViſhbich,</hi> in ſtead of that of <hi>Foſſe. Dike,</hi> as for the downefall.</p>
+               <p>As touching <hi>Boſton Deepes.</hi> I anſwer that the Floods of the Sea come over all the Sands which lye between them and the poynt of <hi>Norfolke,</hi> and doe returne with the Ebbs towards the North thither againe, and theſe Ebbs are that which have alwayes maintined <hi>Boſton Deepes.</hi> It is not the River of <hi>Welland,</hi> and that of <hi>Boſton</hi> that can doe it, they are but ſmall waters, eſpe<g ref="char:EOLhyphen"/>cially that of <hi>VVelland,</hi> and the leſſe powerfull when it commeth abroad into a vaſt place where it is not to be diſcerned. For inſtance, <hi>Welland</hi> cannot make a deepe in a narrow Channell at <hi>Feſſe dike,</hi> but at every lowe water travailers tide through, the water being not above halfe Leg deepe, which ſheweth that it hath
+<pb n="20" facs="tcp:156605:12"/>neither force nor great quantity of water.</p>
+               <p>And conſider, that when <hi>VVeiland</hi> went by <hi>Wiſbich,</hi> yet <hi>Boſton Deepes</hi> were then, I did not ground my rea<g ref="char:EOLhyphen"/>ſon upon Sir <hi>Clement Edmonds</hi> report, and that there is a deſcent from <hi>Welland</hi> to <hi>Neane,</hi> but doe likewiſe take it into conſideration, that the great ſtone Bridge at <hi>Spalding,</hi> through which ſome ſmall part of <hi>Welland</hi> water did come in the Winter time, which was of great antiquity, was not Twelve Foote in the water<g ref="char:EOLhyphen"/>courſe, and but Five Foote deepe, and the ſtone Pillar or Peere in the midſt thereof, which ſupported both Arches, was but now of late taken away by the Dray<g ref="char:EOLhyphen"/>ners of <hi>Deeping Fennes,</hi> when they did widen the Ri<g ref="char:EOLhyphen"/>ver, which maketh it evident, that but little of <hi>VVel<g ref="char:EOLhyphen"/>land</hi> water went that way either of late or anciently; yea, leſſe then now the Downefall will amount unto, as I doe contrive it.</p>
+               <p>Moreover conſider, that when the River of <hi>Welland</hi> went to <hi>Wiſbich,</hi> then the Bridge at <hi>Boſton</hi> ſtood firme, and in ancient time was made with doores to ſhut out the Floods in manner of a Sluce, that it ſhould not goe higher then the Towne, which Bridge now hath none, ſo that the Sea doth now flow up with a great quantity of water 20. myles by the water courſe above <hi>Boſton,</hi> yet ſo long agoe when the ſaid River had not the fourth part of the Ebbe, which now it hath, and that <hi>Welland</hi> as aforeſaid, did goe to <hi>VViſbich</hi> fall, yet <hi>Boſton deepe,</hi> was and the towne had then a great com<g ref="char:EOLhyphen"/>merce in Wooll and other Merchandize. And the reaſons why it was ſo, is, that the Ebbe which com<g ref="char:EOLhyphen"/>meth over the Sands which lye between <hi>Norfolke,</hi> and it commeth that way, and ſo keepeth a <hi>Deepe</hi> there
+<pb n="21" facs="tcp:156605:12"/>which could not otherwiſe bee poſſibly maintained. For the Rivers are not ſuch as to keepe open a Depth of ſuch wideneſſe as <hi>Boſton Deepe</hi> is, eſpecially among the Sands of the Sea. If it were not for the Ebbes of the Sea it would ſoone decay. Moreover, the River of <hi>Wisbich</hi> Ebbes towards the North by <hi>Boſton Deepe</hi> in<g ref="char:EOLhyphen"/>to the Sea, and if the river of <hi>VVelland</hi> be brought to <hi>Witbich,</hi> it muſt goe that way likewiſe to the Sea, as now it doth, ſo in this caſe it makes no alteration.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>3</label> 
+                  <hi>It is objected by ſome, that it were better to let the River of</hi> Welland <hi>goe betweene Bankes to</hi> Spalding, <hi>and the River of</hi> Neane <hi>to</hi> Wisbich, <hi>and ſo leave two Outfals.</hi>
+               </p>
+               <p n="1">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> 1 That two Rivers to be brought into one will make a better Outfall, and ſuch an Outfall will ſerve the Country in generall, better then two Outfals, and will never decay.</p>
+               <p n="2">2 That the 2. Outfals will burthen the maintenance more then 1000. l, yearely at leaſt at all advantages.</p>
+               <p n="3">3 That it will require 18. miles of Bankes more and Draynes, and the charges thereby increaſe at leaſt 20000. l. and 1000. l. the yeare, for the maintenance more, and make a worſer worke.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Now for the Particulars concerning the contriving of the Workes betweene the River</hi> Glean, <hi>and</hi> Mortons-Leame.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Or the overplus of the River <hi>Glean</hi> which drownes <hi>Deeping-Fenne</hi> on that ſide of the Country, is to be brought by a Drayne in<g ref="char:EOLhyphen"/>to <hi>Welland</hi> above <hi>Deeping,</hi> and the Slakers to be removed and the Channell to be kept within the Bankes thereof. I doe reſolve onely to take the over<g ref="char:EOLhyphen"/>plus
+<pb n="22" facs="tcp:156605:13"/>of the River of <hi>Glean,</hi> that the remainder may be kept within the Bankes, and the Slaker to be removed to ſave <hi>Deeping Fen</hi> on that ſide. And that the Townes by which the ſaid River runneth may not want water, and to keepe <hi>Welland</hi> Outfall thereby, and if need be, the ſooner to gather head by meanes of the Sluce and Saſſe which are to be below it on <hi>Welland</hi> to ſcowre the Outfall, and by the ſaid Sluce likewiſe the down<g ref="char:EOLhyphen"/>fall of this Levell ſhall iſſue by <hi>VVelland:</hi> and the ſaid drayne above <hi>Deeping,</hi> is to take away alſo <hi>Stow brooke</hi> and the downfall of all the Countrey between <hi>VVel<g ref="char:EOLhyphen"/>land</hi> and <hi>Glean,</hi> which now runneth into <hi>Deeping Fens</hi> and drownes it.</p>
+               <p>The River of <hi>Welland</hi> is to be brought unto <hi>Mor<g ref="char:EOLhyphen"/>tons Leame;</hi> therefore a new River is to be cut to be<g ref="char:EOLhyphen"/>gin neare <hi>Waldron-hall,</hi> &amp; ſo go on towards the Bridge which leads from the Upland to <hi>Thorney</hi> Abby ſome<g ref="char:EOLhyphen"/>what below the Bridge, and from thence below <hi>Wil<g ref="char:EOLhyphen"/>lowhall,</hi> and ſo to <hi>Mortons Leame.</hi> And next unto <hi>Wel<g ref="char:EOLhyphen"/>land</hi> a Saſſe to be ſet to let water into old <hi>VVelland</hi> and to preſerve Navigation.</p>
+               <p>Where by will be left on that ſide of the Country betweene the Upland ground and the Bankes, ſome quantity of Meadow ground and Paſture, to ſerve for receptacles for water in the Winter, but theſe grounds will be by the white waters and the making of the reſt of the Lands winter grounds, become of a greater va<g ref="char:EOLhyphen"/>lue then they now are, and this number of Acres and the reſt of the receptacles which are to be left e<g ref="char:EOLhyphen"/>very where will not exceed the quantity which would be left betweene Banke and Banke, if every Channell or River were Imbanked, and therby the waters of the Rivers and the waters which in time of great raines
+<pb n="23" facs="tcp:156605:13"/>comes from the Hills, will be kept betweene the Up<g ref="char:EOLhyphen"/>lands and the Bankes, and from the drayned Land, and this will prevent the riſing of the waters to a great height, and the Bankes will thereby in a meaſure bee disburthened, and ſo the Lands better freed from In<g ref="char:EOLhyphen"/>undation then by any other way, &amp; the Townes which lye without the Banks be kept ſafe from drowning.</p>
+               <p>The River of <hi>VVisbich</hi> from <hi>Guyhurne</hi> downward muſt be widened to make it ſufficient for both waters.</p>
+               <p>The Sluce at <hi>Clowes Croſſe,</hi> made to iſſue the waters of the <hi>Fennes</hi> muſt bee ſtopped, and the <hi>Fenne</hi> waters for that part of the Countrey muſt goe part to <hi>Crow<g ref="char:EOLhyphen"/>land,</hi> and ſo by <hi>Spalding</hi> to the Sea and by <hi>Murra plaſh</hi> as need ſhall require, and if the Fall can bee gained at <hi>Guyhurne</hi> part may goe by <hi>Wisbich,</hi> otherwiſe <hi>VVel<g ref="char:EOLhyphen"/>land</hi> and <hi>Murra plaſh</hi> muſt remaine the only draynes for the downfall which are not ſufficient to receive it.</p>
+               <p>By theſe Workes the Lands of <hi>Ellow</hi> will be freed from Inundation, and <hi>Deeping</hi> be ſafe together with the reſt of all the Lands in that Levell from <hi>Gloan</hi> to <hi>Mortons Leame,</hi> and therby the Lands of <hi>Ellow,</hi> and on the North-ſide of <hi>VVisbich</hi> will be diſcharged of the <hi>Fenne</hi> water which did runne above the ſame all the winter by the Sheire-drayne. And now to the contra<g ref="char:EOLhyphen"/>ry, <hi>VVelland</hi> and the Sheire-drayne will be turned to be good ſervants in ſtead of ill Maſters to thoſe Coun<g ref="char:EOLhyphen"/>tries, to iſſue their dovvne fall all Winter by them. And ſo they will be made ſure and certain Countries, and if the owners of the Lands of <hi>Ellow</hi> and the North ſide of <hi>VVisbich</hi> cleanſe their Ditches to leade away their Downfall, they ſhall not want any further head Draynes other then that of <hi>VVelland</hi> and the Sheire<g ref="char:EOLhyphen"/>drayne.
+<pb n="24" facs="tcp:156605:14"/>The Sheire drayne muſt bee for a certaine length amended ſomething and altered, and a Sluce to be ſet next the outfall of <hi>Wisbich</hi> river, to iſſue the waters of <hi>Ellow</hi> and the North ſide of <hi>Wisbich,</hi> which Outfall will laſt alwayes, the worke being made as a<g ref="char:EOLhyphen"/>foreſaid.</p>
+            </div>
+            <div type="part">
+               <head>The Worke which lyeth in the middle of the Le<g ref="char:EOLhyphen"/>vell betweene <hi>Mortons-Leame</hi> and <hi>Bed<g ref="char:EOLhyphen"/>ford</hi> River, the River now running through it.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>His part is to be drayned by a Banke which is to goe from <hi>Stanground</hi> to the fields of <hi>Witleſey,</hi> and from <hi>Elder<g ref="char:EOLhyphen"/>nell</hi> to <hi>Guyhurne</hi> on that ſide. On the other ſide a Banke to be made from or neere <hi>Ereth</hi> Cauſey along <hi>Bedford.</hi> River to <hi>Poedike</hi> banke, or <hi>Salters Load,</hi> and by theſe Banks the waters of <hi>Neane</hi> on the one ſide, &amp; the <hi>Ouſe</hi> on the other ſide will be fenced out of this part of the Levell, and <hi>Neane</hi> hereby will be turned to <hi>Wisbich.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> 
+                  <hi>But when</hi> Neane <hi>is turned to</hi> Wisbich <hi>and ſo to the Sea with</hi> Welland, <hi>though there be proviſion made for all thoſe waters in time of extremity to Bed on betweene Banke and Banke, and betweene the Banke and the <g ref="char:V">Ʋ</g>p<g ref="char:EOLhyphen"/>land, yet the Channell of</hi> Wisbich <hi>from</hi> Guyhurne <hi>to the Sea, will not bee ſufficient (may be objected) to iſſue the ſaid waters of the ſaid Rivers, and ſo the Levels on both ſides may be endangered and the Bankes be over<g ref="char:EOLhyphen"/>flowne
+<pb n="25" facs="tcp:156605:14"/>and broken downe, when great waters come downe for want of ſufficient iſſue made from</hi> Guyhurne <hi>to the Sea.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> J confeſſe that it is needful to make the opening of <hi>VVisbich</hi> river in a larger manner then now it is, and as is heretofore ſpoken of.</p>
+               <p>
+                  <note place="margin">☞</note> But yet is a queſtion, when there is ſufficient roome left for the water to Bed on, whether in ſuch a caſe the opening in a great meaſure every where ſhall be need<g ref="char:EOLhyphen"/>full, and my reaſon is, that when all theſe Waters are put that way the River lying in a Sandy ground, they will grind their own Outfall eſpecially the lower, ends thereof, and make it ſelfe Navigable and more deepe by farre then now it is, and the Sluce at the <hi>Horſeſhoe</hi> will not be ſufficient to carry away the water, there<g ref="char:EOLhyphen"/>fore the water is to bee cut through neere the Sluce. If the River by the ſtraight line through the North ſide of <hi>VViſbich</hi> be not made, and by this worke either way a fall will be gained.</p>
+               <p>That this part of the <hi>Fennes</hi> will iſſue its downfall that way ſo well as if it were in the <hi>Ouſe,</hi> becauſe that antiently the waters of <hi>Neane</hi> and the moſt part of that of <hi>Welland</hi> and <hi>Ouſe</hi> by the Weſt water went by <hi>Wisbich</hi> to the Sea, and that the Channell at that time could not be broader, as may be gueſſed and ſeen then now it is, It ſhall not need to be widened any more. The two Rivers meeting will grinde the Channell through the Marſh, and make <hi>Wiſbich</hi> a Haven Towne like that of <hi>Lynne,</hi> though not in ſuch meaſure of wideneſſe.</p>
+               <p>And that Objection of the Sands which the Floods bringeth in, and ſo ſtoppe the Channell againe, is not
+<pb n="26" facs="tcp:156605:15"/>to be conſidered here, for when there is a River which hath a backe water as this will have, it will grinde deepe and open it ſelfe by the water at every Ebbe, and for inſtance the <hi>Ouſe</hi> from <hi>Little-port</hi> to <hi>Lynne</hi> keepes his depth by reaſon of the backe Waters, ſo will <hi>VViſbich</hi> River keepe it ſelfe open, having the water of theſe two Rivers.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> 
+                  <hi>Becauſe it may be objected, that the Inhabitants of</hi> Peterborough <hi>have Navigation from their Towne to</hi> Lynne <hi>by the River</hi> Neane <hi>as now it runneth, which will then be taken away.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> It is anſwered, that the Workes being thus contri<g ref="char:EOLhyphen"/>ved, they ſhall not need to fetch and carry their com<g ref="char:EOLhyphen"/>modities ſo farre, but goe the neareſt way to <hi>Wiſbich,</hi> and then it ſhall not be requiſite to have a Navigable Sluce at <hi>Stanground</hi> (unleſſe they and the Townes thereabouts ſhall give ſufficient reaſon for it) which I ſhall endeavour to avoyd with ſuch like workes as I can, becauſe they are both chargeable and dangerous in the making and maintaining, and having their Na<g ref="char:EOLhyphen"/>vigation to <hi>Wisbich</hi> they ſhall need no other.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> 
+                  <hi>There is for the ſervice of this worke in the opinion of moſt men, a Drayne to be made from</hi> Well <hi>to fall into</hi> Ouſe <hi>about</hi> Germans-<hi>bridge, thereby to lead the Down<g ref="char:EOLhyphen"/>fall of this Levell to the Sea, with a Sluce in the head thereof.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> For Anſwer hereunto, I ſay; that my opinion is: That this Drayne and Sluce, the reaſon of the third worke and of the opening of <hi>VVisbich</hi> River conſide<g ref="char:EOLhyphen"/>red, ſhall not be needfull, for if the <hi>Ouſe</hi> at <hi>Salters Load</hi> be disburthened of the confluence of waters now it hath, then the <hi>Poedike</hi> where it fals into <hi>Ouſe</hi> will
+<pb n="27" facs="tcp:156605:15"/>iſſue foure times more water then now it doth, for the <hi>Ouſe</hi> doth now receive farre more water then it ſhall after the third worke be made as hereafter is ex<g ref="char:EOLhyphen"/>preſſed, and thereby it muſt conſequently follow, that this Drayne from <hi>Well</hi> to <hi>Germans</hi>-Bridge ſhall not be needfull.</p>
+               <p>Moreover the great receptacles which are in this Levell by the great Meeres of <hi>VVitleſey, Ramſey, &amp;c.</hi> make it evident, that the downefall will never want a Head Drayne on that ſide, for if there were one, yet the Waters would firſt goe to the receptacles, And there lye vntill the Draynes receive them; And in that <hi>interim</hi> the Channell of <hi>Neane,</hi> wilbe ſufficient to ſend it downe in good time to the fall, conſidering the <hi>Poedike</hi> to be as ſufficient as <hi>Neane</hi> can be; And the Waters of <hi>Peterborough</hi> being turned to <hi>Wisbich,</hi> it will disburthen the Channell of <hi>Neane</hi> and the Le<g ref="char:EOLhyphen"/>vell in generall.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The third Worke being a Levell on the South<g ref="char:EOLhyphen"/>ſide of</hi> Bedford <hi>River, and ſo along and be<g ref="char:EOLhyphen"/>tween the Uplands of</hi> Suffolk, Nor<g ref="char:EOLhyphen"/>folke, <hi>and</hi> Cambridge.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He River of <hi>Ouſe,</hi> is the principall River that Runneth through this part of the Country to the Sea, And commeth from <hi>Huntingdon</hi> by Saint <hi>Ives</hi> to <hi>Erith,</hi> where it beginneth to come into three <hi>Fennes,</hi> and ſo to <hi>Ely,</hi>
+                  <pb n="28" facs="tcp:156605:16"/>then to <hi>Little Port,</hi> and from thence to <hi>Salters Load, Dounham,</hi> and <hi>Lynne,</hi> and ſo to the Sea; And with the other Rivers doth familiarly over runne all theſe <hi>Fenny</hi> Lands on all occaſions of Floods, which come downe by the Rivers; And as this River of <hi>Ouſe</hi> goeth downe through the <hi>Fennes,</hi> the River of <hi>Grant,</hi> which commeth from <hi>Cambridge,</hi> falls thereinto, ſome di<g ref="char:EOLhyphen"/>ſtance above <hi>Ely,;</hi> The River of <hi>Brandon,</hi> likewiſe falls into it at <hi>Prieſts-Houſes,</hi> And the River of <hi>Stoke,</hi> falls into it ſomething above <hi>Salters Load,</hi> and all theſe looſe their names by <hi>Ouſe.</hi> A great part of the River <hi>Neane,</hi> which commeth from <hi>Peterborough,</hi> dothfall into the <hi>Ouſe,</hi> likewiſe all which meeting in one at or about <hi>Salters Loade,</hi> doe ſurcharge the River in ſuch manner as that this part of the Country is more over flowne and dangerouſly drowned then any other part<g ref="char:EOLhyphen"/>of the <hi>Fennes</hi> are; And the ſaid ſeverall Rivers which fall into <hi>Ouſe,</hi> except <hi>Neane,</hi> doe all fall into the South ſide thereof, the one above the other, and all of them Groſſe wiſe inclining to the North, and the <hi>Ouſe</hi> run<g ref="char:EOLhyphen"/>ning to the Eaſt in ſuch a manner indeed, as if the Lands were made purpoſely to be overflowen and ſo to remaine; The thwarting thereof divides it into ſe<g ref="char:EOLhyphen"/>verall Levells the one above the other; And if thoſe Lands ſhould be Drayned by ſeverall diviſions then the one Levell muſt put his water on the other, and ſo Annoy the one by Diſcharging the other, which would make an Imperfect worke; And my reaſon thereof, I have given more at large heretofore.</p>
+               <p>To have this part of the Country and thoſe ſever<g ref="char:EOLhyphen"/>all Levells Drayned and made Winter Ground, they muſt be made but one Levell and many great altera<g ref="char:EOLhyphen"/>tions
+<pb n="29" facs="tcp:156605:16"/>are to be made therein, by bringing the very Ri<g ref="char:EOLhyphen"/>vers which runne through it another way; for as they Croſſe-wayes fall into <hi>Ouſe</hi> thoſe Lands can not bee made Winter grounds by the ordinary way of dray<g ref="char:EOLhyphen"/>ning, as heretofore is made mention of.</p>
+               <p>Therefore the principall River which is <hi>Ouſe,</hi> may not goe downe through the <hi>Fennes</hi> as now it doth, but the beſt way is to turne that River at <hi>Erith</hi> into and next unto <hi>Bedford</hi> river, and to ſhut the paſſage of <hi>Ouſe</hi> as now it goeth by a Croſſe-banke through the River to the firme Land, &amp; ſo force it into that courſe as now <hi>Bedford</hi> river goeth, whereby all the Lands be<g ref="char:EOLhyphen"/>low <hi>Erith</hi> wilbe freed from the overflowing of <hi>Ouſe.</hi>
+               </p>
+               <p>And to the end that the water of <hi>Ouſe</hi> ſhall not an<g ref="char:EOLhyphen"/>noy the Country any farther, the ſaid <hi>Beford</hi> River is to be Imbanked on each ſide thereof to keepe <hi>Ouſe</hi> within certaine bounds, the Bankes thereof muſt be a great diſtance the one from the other, ſo that the wa<g ref="char:EOLhyphen"/>ter in time of Extremity may goe in a large roome to keepe it from riſing too high, and the more becauſe there is a great diſtance of about 25 miles from <hi>Erith</hi> before it commeth to the perfect Fall. And thoſe Lands which are to bee left for the water to Bed on, will be good Meadow ground within ſome time Im<g ref="char:EOLhyphen"/>proved by the water of <hi>Ouſe</hi> to a great value.</p>
+               <p>The three Rivers of <hi>Mildenhall, Brandon,</hi> and <hi>Stoke,</hi> muſt be made one River, and to that end <hi>Mildenhall</hi> muſt bee brought into <hi>Brandon,</hi> and both into <hi>Stoke,</hi> and all into <hi>Ouſe;</hi> and in that manner that the downe<g ref="char:EOLhyphen"/>fall of that Levell may be brought through a Drayne to be made to a better Fall then that of <hi>Stoke,</hi> for the downefall of <hi>Grant</hi> to goe in.</p>
+               <pb n="30" facs="tcp:156605:17"/>
+               <p>The Land betweene the new Cut and the Bankes to the number of Foure or five Thouſand Acres by gueſſe, will bee fit Receptacles for the waters at all times of Extremity, and the old Rivers will thereby remaine to bee ſufficient Draynes to leade the downefall to <hi>Ouſe</hi> within the Stop.</p>
+               <p>The Upland Countrey from <hi>Milden-hall</hi> to <hi>Stoke,</hi> is a Barren and ſandy Country; Therefore the Meadowes which are to bee left betweene the Bankes and the Upland as afore<g ref="char:EOLhyphen"/>ſaid, will be very uſefull for them, and receive by the white Waters within ſome time as good an Improvement as any other Lands made Winter grounds.</p>
+               <p>The River of <hi>Neane</hi> being turned to <hi>Wisbich,</hi> as is afore<g ref="char:EOLhyphen"/>ſaid in the Second worke, none other River remaines to bee taken order with but <hi>Grant,</hi> and this River muſt be ledde away by <hi>Ouſe</hi> in ſuch manner as the Alteration of the Workes ſhall appeare to require, after all the other workes be done.</p>
+               <p>And for the Brookes and Runlets which lye that way, they are likewiſe to be guided, as upon the Alteration ſhall appeare to the beſt ſervice.</p>
+               <p>By this Alteration all the Rivers except <hi>Grant</hi> are turned out of their uſual courſe, ſo that the old Channell of <hi>Ouſe</hi> which was the Channell, for <hi>Ouſe, Grant, Mildenhall, Bran<g ref="char:EOLhyphen"/>don</hi> and <hi>Stoake,</hi> having now to receive but <hi>Grant</hi> alone with the Downefall, will find roome enough within the Channell without much Imbanking.</p>
+               <p>To facilitate this Worke for a perfection, there muſt bee made a ſufficient Fall for that Levell by a ſufficient Drayne to begin at <hi>Ouſe</hi> ſtoppe, and ſo to goe downeward neare the Fall underneath <hi>Stoke</hi> if need be, to bring <hi>Grant</hi> and the Downefall by this Drayne below into <hi>Ouſe</hi> at the <hi>Ouſe</hi> ſtoppe through the <hi>Saſſe,</hi> and the Sluce to be made there a good quantity will iſſue, but all cannot iſſue there, nor at all times, for the Rivers when they are up will take away the Fall and the Drayne for <hi>Grant</hi> to goe in, muſt have a good Fall conti<g ref="char:EOLhyphen"/>nually
+<pb n="31" facs="tcp:156605:17"/>to ſpeed the water of <hi>Grant</hi> away, becauſe it is mixed with the Downefall of that Levell contrary to the Rule of Drayning, and therefore by Art it muſt be obſerved how that muſt be according to the operation which ſhall happen. And though it be againſt the Rule to mixe the Downfall with the River, yet in this caſe it cannot be avoyded. And the Chan<g ref="char:EOLhyphen"/>nell of <hi>Ouſe</hi> being of a great wideneſſe and depth, whereby it receives not onely <hi>Ouſe,</hi> but alſo <hi>Grant, Mildenhall, Bran<g ref="char:EOLhyphen"/>don, Stoake,</hi> and part of <hi>Neane,</hi> and the tyde of the Sea will be ſufficient when all the Rivers and confluence of waters are lead and turned out of this Channell fave <hi>Grant</hi> onely. And that there is made a new River or paſſage to the Fall as is a<g ref="char:EOLhyphen"/>foreſaid, for <hi>Grant</hi> and the Downefall, which being done, J conceive this Channell of <hi>Ouſe</hi> being of ſuch wideneſſe and depth will be able to receive with eaſe, the River of <hi>Grant,</hi> together with the Downfall without prejudice of the Lands, the Workes being contrived accordingly as they ſhould be.</p>
+               <p>Conſider that if the three Rivers ſhould fall into <hi>Ouſe</hi> where <hi>Stoake</hi> River now falls in, that then the <hi>Ouſe</hi> will leave all the ſame waters which it had before, except <hi>Neane,</hi> and then the <hi>Ouſe</hi> will not be ſo farre diſcharged. That the Drayn may be ſpared, for the River of <hi>Grant</hi> and the Downefall of that Levell to goe in, but muſt goe underneath <hi>Stoake</hi> in a Pipe or Tunnell, and ſo in the Drayne, goe into <hi>Ouſe</hi> where the Fall is ſufficient, unleſſe the turning of <hi>Ouſe</hi> a ſtraighter way to the Sea doe not hinder the Fall, but this muſt be contri<g ref="char:EOLhyphen"/>ved according to the event thereof, and before, no certainty can be had therein.</p>
+               <p>And if the three Rivers be brought to fall into <hi>Ouſe</hi> where the Fall is good and ſufficient, then the <hi>Ouſe</hi> at the outſide of the <hi>Saſſe,</hi> will be diſcharged of that quantity of water, which together with <hi>Neane</hi> I eſteeme a Moſty of all the wa<g ref="char:EOLhyphen"/>ter it had before, and no queſtion but thereby a ſufficient Fall, for the Downefall may be gained and not be put to a Drayne for <hi>Grant</hi> and the <hi>Downefall</hi> in that meaſure of charge which otherwayes it would be.</p>
+               <pb n="32" facs="tcp:156605:18"/>
+               <p>And by this it may plainly appeare to your Majeſty, that neere the Moity of Bankes, which in the other way of ordi<g ref="char:EOLhyphen"/>nary Drayning are to be made, are cut of, and conſequently the charge for the making and maintaining of them leſſer this way then by any the other Deſignes.</p>
+               <p>And hereby the Land will become more certaine for ha<g ref="char:EOLhyphen"/>bitation, and by reaſon thereof of a ſarre greater value then otherwiſe.</p>
+               <p>And this is as much as J can informe your Majeſty by writing.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="order">
+            <p>
+               <hi>The</hi> 22. <hi>of February,</hi> 1641.</p>
+            <p>IT is Ordered by the Committee for the Great Levell that the Deſigne offered by Sir <hi>Cornelius Vermuiden</hi> Knight, together with the Mappe be Printed.</p>
+         </div>
+         <div type="order">
+            <p>
+               <hi>The</hi> 25. <hi>of February,</hi> 1641.</p>
+            <p>ORdered by the Committee for the Great Levell that it be Printed, together with the Deſigne, that all men whom it may concerne to take notice of, may thereby informe themſelves, and may make their exceptions againſt it, and likewiſe may offer any other deſigne, and they ſhall have notice to be heard.</p>
+            <p>
+               <hi>Hen. Pelham.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
